@@ -1,6 +1,6 @@
 # 🧠 知識庫
 
-> 偉仔嘅個人知識庫 — 藝術、音樂、哲學、健康、AI研究
+> 偉仔嘅個人知識庫 — 藝術、音樂、哲學、健康、AI研究、Office
 
 ---
 
@@ -34,11 +34,16 @@
 - [音樂治療](music/音樂治療/)
 - [音樂流派歷史](music/音樂流派歷史/)
 
+### 📋 Office
+- [Microsoft 新功能](office/Microsoft新功能/) — Copilot、Excel、Power Automate
+- [ClickHouse SQL](office/ClickHouse-SQL/) — 查詢優化、高階函數
+
 ---
 
 ## 🔄 自動更新
 
 - 每日凌晨 4:00 自動 research 最新/經典學術知識
+- 優先複製高質量開源 Markdown（MIT/Apache/Unlicense/CC）
 - 所有筆記同步到 GitHub
 
 ---
