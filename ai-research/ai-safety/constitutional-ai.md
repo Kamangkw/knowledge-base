@@ -2,14 +2,14 @@
 
 ## 基本資訊
 
-| 項目 | 內容 |
-|------|------|
-| **標題** | Constitutional AI: Harmlessness from AI Feedback |
-| **作者** | Bai, Yuntao; Kadavath, Saurav; Kundu, Sandipan; Askell, Amanda; Kernion, Jackson; et al. |
-| **年份** | 2022 |
-| **arXiv ID** | 2212.08073 |
-| **發布機構** | Anthropic |
-| **原文連結** | https://arxiv.org/abs/2212.08073 |
+| 項目           | 內容                                                                                       |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| **標題**       | Constitutional AI: Harmlessness from AI Feedback                                         |
+| **作者**       | Bai, Yuntao; Kadavath, Saurav; Kundu, Sandipan; Askell, Amanda; Kernion, Jackson; et al. |
+| **年份**       | 2022                                                                                     |
+| **arXiv ID** | 2212.08073                                                                               |
+| **發布機構**     | Anthropic                                                                                |
+| **原文連結**     | https://arxiv.org/abs/2212.08073                                                         |
 
 ---
 
@@ -18,7 +18,7 @@
 隨著 AI 系統能力越來越強，我們需要更好的方法來確保 AI 行為無害且符合人類價值觀。傳統方法依賴於：
 
 1. **人類標註有害輸出** - 成本高、難以規模化
-2. **RLHF (Reinforcement Learning from Human Feedback)** - 需要大量人類反饋
+2. **RLHF (Reinforcementg Learning from Human Feedback)** - 需要大量人類反饋
 
 Constitutional AI (CAI) 提出了一種新方法：**僅使用人類提供的原則（principles）列表來訓練無害的 AI 助手**，而不需要人類標註有害輸出。
 
