@@ -1,3 +1,11 @@
+---
+title: 正念是佛教的嗎？（及其為何重要）
+date: 2026-04-20
+source: 自行研究整理（主要參考：Sharf RH, "Is mindfulness Buddhist?" Journal of the American Academy of Buddhism）
+tags: [正念, 佛教, 禪修, 宗教比較, 內觀, 去宗教化]
+description: 探討「正念」（mindfulness）究竟是源自佛教的修行傳統，還是已被去宗教化的世俗化實踐。分析佛教正念與西方「正念減壓」的本質差異。
+---
+
 # 正念是佛教的嗎？（及其為何重要）
 
 ## 基本資訊

@@ -1,3 +1,11 @@
+---
+title: Direct Preference Optimization (DPO): 直接偏好優化
+date: 2026-04-22
+source: 自行研究整理（主要參考：Rafailov R et al., "Direct Preference Optimization" arXiv:2305.18290）
+tags: [LLM, DPO, 偏好優化, 強化學習, 微調]
+description: 介紹Direct Preference Optimization (DPO)技術，一種替代RLHF的直接偏好優化方法，讓語言模型從人類偏好中學習。
+---
+
 # Direct Preference Optimization (DPO): 直接偏好優化
 
 ## 基本資訊

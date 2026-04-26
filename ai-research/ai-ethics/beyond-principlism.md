@@ -1,3 +1,11 @@
+---
+title: 超越原則主義：研究實踐中的 AI 倫理實用策略
+date: 2026-04-22
+source: 自行研究整理（主要參考：Lin Z, "Beyond Principlism: Practical Strategies for Ethical AI Use in Research Practices" arXiv:2401.15284）
+tags: [AI倫理, 原則主義, 科研倫理, 實用策略]
+description: 探討在研究實踐中超越原則主義的AI倫理實用策略，處理原則衝突與語境複雜性。
+---
+
 # 超越原則主義：研究實踐中的 AI 倫理實用策略
 
 ## 基本資訊

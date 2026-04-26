@@ -1,3 +1,11 @@
+---
+title: Constitutional AI: AI 反饋的無害性
+date: 2026-04-23
+source: 自行研究整理（主要參考：Bai Y et al., "Constitutional AI: Harmlessness from AI Feedback" arXiv:2212.08073, Anthropic）
+tags: [AI安全, Constitutional AI, AI反饋, RLHF, 無害性]
+description: 介紹Constitutional AI方法，使用AI自身的反饋來訓練模型的无害性，是Anthropic在AI安全方面的重要研究。
+---
+
 # Constitutional AI: Harmlessness from AI Feedback
 
 ## 基本資訊

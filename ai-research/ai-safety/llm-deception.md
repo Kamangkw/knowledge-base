@@ -1,3 +1,11 @@
+---
+title: LLM 的欺騙能力：揭開 AI 的陰影
+date: 2026-04-22
+source: 自行研究整理（主要參考：Guo L, "Unmasking the Shadows of AI" arXiv:2403.09676）
+tags: [AI安全, 欺騙行為, LLM, AI倫理]
+description: 研究大型語言模型的欺騙能力，分析AI何時及如何誤導人類，以及相關的安全風險。
+---
+
 # LLM 的欺騙能力：揭開 AI 的陰影
 
 ## 基本資訊
