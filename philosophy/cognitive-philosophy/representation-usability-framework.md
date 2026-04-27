@@ -1,3 +1,11 @@
+---
+title: 錶徵的使用與可用性：跨學科框架
+date: 2026-04-20
+source: 自行研究整理（主要參考：Ben Baker et al., "Use and usability: concepts of representation in philosophy, neuroscience, cognitive science, and computer science"）
+tags: [認知哲學, 表徵, 可用性, 心靈哲學, 語言]
+description: 介紹認知哲學中兩個核心理論框架——表徵主義（Representation）與可用性框架（Enactivism），探討兩者對意識、語言與思維的不同理解。
+---
+
 # 錶徵的使用與可用性：哲學、神經科學、認知科學與電腦科學的跨學科框架
 
 ## 基本資訊

@@ -1,3 +1,11 @@
+---
+title: 魯米與正念：蘇菲派詩人的靈性實踐
+date: 2026-04-20
+source: 自行研究整理（主要參考：Mirdal GM, "Mevlana Jalāl-ad-Dīn Rumi and mindfulness"；Coleman Barks 英譯本）
+tags: [魯米, 正念, 蘇菲主義, 詩, 靈性, 旋轉舞, 愛]
+description: 探索十三世紀波斯詩人賈拉爾丁·魯米（Jalal al-Din Rumi）的靈性思想，分析其與現代正念概念的相通之處，並介紹蘇菲派的核心修行方式。
+---
+
 # 魯米與正念：蘇菲派詩人的靈性實踐
 
 ## 基本資訊

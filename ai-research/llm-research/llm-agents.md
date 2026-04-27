@@ -1,6 +1,7 @@
 ---
 title: LLM Agents：原理、工具使用、ReAct框架
 date: 2026-04-20
+source: 自行研究整理（主要參考：Voyager 論文 arXiv:2301.11453、AutoGPT 技術報告、ReAct 論文 arXiv:2210.03629）
 tags: [LLM, Agents, ReAct, Tool-Use, AI-Agent]
 description: 探討大型語言模型代理的基本原理、工具调用機制，以及 ReAct（Reasoning + Acting）框架的核心設計，並深入分析 Voyager、AutoGPT 等知名系統與現有局限性。
 ---

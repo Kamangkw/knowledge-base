@@ -1,3 +1,11 @@
+---
+title: 自動化通用 Prompt 注入攻擊
+date: 2026-04-22
+source: 自行研究整理（主要參考：Liu X et al., "Automatic and Universal Prompt Injection Attacks" arXiv:2403.04957）
+tags: [AI安全, Prompt注入, 對抗攻擊, LLM]
+description: 分析針對大型語言模型的自動化通用Prompt注入攻擊，探討攻擊向量與防禦策略。
+---
+
 # 自動化通用 Prompt 注入攻擊
 
 ## 基本資訊

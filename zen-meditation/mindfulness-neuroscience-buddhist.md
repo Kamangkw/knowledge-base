@@ -1,3 +1,11 @@
+---
+title: 正念冥想的神經生理學：佛教視角敘述性回顧
+date: 2026-04-20
+source: 自行研究整理（主要參考：Joshi B et al., "Neurophysiology of Mindfulness Meditation: A Narrative Review Based on Buddhist Perspective"）
+tags: [正念, 神經科學, 禪修, 大腦, 冥想, 可塑性]
+description: 從神經科學角度分析正念冥想的實際效果與原理。涵蓋默認模式網絡（DMN）、神經可塑性、壓力反應調節等研究發現，並介紹正念減壓（MBSR）的科學基礎。
+---
+
 # 正念冥想的神經生理學：佛教視角敘述性回顧
 
 ## 基本資訊

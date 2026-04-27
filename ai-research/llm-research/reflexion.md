@@ -1,3 +1,11 @@
+---
+title: Reflexion: 語言 Agent 的言語強化學習
+date: 2026-04-22
+source: 自行研究整理（主要參考：Shinn N et al., "Reflexion: Language Agents with Verbal Reinforcement Learning" arXiv:2303.11366）
+tags: [LLM, Reflexion, Agent, 強化學習, 口語反饋]
+description: 介紹Reflexion框架，讓語言Agent透過言語強化學習從失敗中自我改進，建立反思與修正的循環。
+---
+
 # Reflexion: 語言 Agent 的言語強化學習
 
 ## 基本資訊

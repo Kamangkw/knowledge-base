@@ -1,3 +1,11 @@
+---
+title: 東西方 AI 倫理比較：孔子、賽博龐克與科學
+date: 2026-04-22
+source: 自行研究整理（主要參考：Fung P & Etienne H, "Confucius, Cyberpunk and Mr. Science" arXiv:2111.07555）
+tags: [AI倫理, 東西方比較, 孔子, 科技政策, 比較哲學]
+description: 比較中國與歐盟的AI倫理框架，分析東西方哲學傳統對AI發展與治理的不同影響。
+---
+
 # 東西方 AI 倫理比較：孔子、賽博龐克與科學
 
 ## 基本資訊

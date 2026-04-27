@@ -1,3 +1,11 @@
+---
+title: 意識、量子力學與科學客觀主義的極限
+date: 2026-04-20
+source: 自行研究整理（主要參考：John B. DeBrota & Christian List, "Consciousness, Quantum Mechanics, and the Limits of Scientific Objectivism"）
+tags: [意識, 量子力學, 禪, 物理學, 薛丁格, 彭羅斯]
+description: 探索意識與量子力學之間的深刻聯繫。從薛丁格的「禪意識」觀察，到彭羅斯的「協調客觀還原」（Orch-OR）理論，分析物理學與禪宗思想對意識本質的不同理解。
+---
+
 # 意識、量子力學與科學客觀主義的極限
 
 ## 基本資訊

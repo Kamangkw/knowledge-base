@@ -1,3 +1,11 @@
+---
+title: Chain-of-Thought Prompting: 思維鏈提示
+date: 2026-04-22
+source: 自行研究整理（主要參考：Wei J et al., "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" arXiv:2201.11903）
+tags: [Prompt Engineering, Chain-of-Thought, 推理, LLM]
+description: 介紹Chain-of-Thought Prompting技術，讓大型語言模型展示推理過程，提升複雜問題的解答能力。
+---
+
 # Chain-of-Thought Prompting: 思維鏈提示
 
 ## 基本資訊

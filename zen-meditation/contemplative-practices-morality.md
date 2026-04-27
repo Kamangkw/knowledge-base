@@ -1,3 +1,11 @@
+---
+title: 沉思實踐是否讓我們更有道德？
+date: 2026-04-20
+source: 自行研究整理（主要參考：Berryman K, Lazar SW, Hohwy J, "Do contemplative practices make us more moral?"）
+tags: [沉思, 道德, 內觀, 佛教倫理, 戒定慧, 慈悲]
+description: 深入探討內觀禪修與道德修養之間的關係。分析「戒定慧」三學中道德生活的角色，以及正念修行如何與日常生活中的倫理決策相互滋養。
+---
+
 # 沉思實踐是否讓我們更有道德？
 
 ## 基本資訊
