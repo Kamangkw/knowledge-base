@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-creativity/visual-art/diffusion-models-visual-art.md",
+                "file": "philosophy/existentialism/nietzsche-will-to-power.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diffusion-models-visual-art"
+              "title": "nietzsche-will-to-power"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:尼采",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "3e48ea2a49168a78",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "health/exercise-medicine/fitness-wiki.md",
+            "file": "philosophy/existentialism/nietzsche-will-to-power.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +168,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2eea1a317d876ea",
+  "active": "64d552ca63ff6abc",
   "lastOpenFiles": [
+    "culinary-arts/烹飪的科學.md",
+    "README.md",
+    "ai-creativity/visual-art/diffusion-models-visual-art.md",
     "poetry-appreciation/詩詞賞析導論.md",
     "philosophy/cognitive-philosophy/representation_usability.md",
     "philosophy/入門指南.md",
@@ -193,8 +196,6 @@
     "ai-research/llm-research/reflexion.md",
     "ai-research/prompt-engineering/chain-of-thought.md",
     "health/exercise-medicine/fitness-wiki.md",
-    "music/music-history/古典音樂歷史.md",
-    "office/clickhouse-sql/advanced-functions.md",
-    "ai-research/ai-safety/constitutional-ai.md"
+    "music/music-history/古典音樂歷史.md"
   ]
 }
