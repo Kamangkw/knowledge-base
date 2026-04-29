@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/existentialism/nietzsche-will-to-power.md",
+                "file": "classic-literature/俄狄浦斯王悲劇分析.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nietzsche-will-to-power"
+              "title": "俄狄浦斯王悲劇分析"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:尼采",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "3e48ea2a49168a78",
@@ -168,8 +168,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "64d552ca63ff6abc",
+  "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
+    "film-drama/電影心理學.md",
+    "coffee-culture/咖啡文化全球儀式.md",
+    "philosophy/existentialism/nietzsche-will-to-power.md",
     "culinary-arts/烹飪的科學.md",
     "README.md",
     "ai-creativity/visual-art/diffusion-models-visual-art.md",
@@ -178,7 +181,6 @@
     "philosophy/入門指南.md",
     "design-thinking/user-research-methods.md",
     "classic-literature/經典文學導論.md",
-    "film-drama/電影心理學.md",
     "film-drama/電影敘事理論.md",
     "design-thinking/design-thinking-process.md",
     "design-thinking/double-diamond-model.md",
@@ -194,8 +196,6 @@
     "ai-research/ai-ethics",
     "ai-research/README.md",
     "ai-research/llm-research/reflexion.md",
-    "ai-research/prompt-engineering/chain-of-thought.md",
-    "health/exercise-medicine/fitness-wiki.md",
-    "music/music-history/古典音樂歷史.md"
+    "ai-research/prompt-engineering/chain-of-thought.md"
   ]
 }
