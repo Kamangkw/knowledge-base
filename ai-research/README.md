@@ -2,9 +2,9 @@
 
 ## 📂 概述
 
-本目錄涵蓋 AI 研究的核心領域：Prompt Engineering、LLM 研究、AI 倫理和 AI 安全。
+本目錄涵蓋 AI 研究的核心領域：Prompt Engineering、LLM 研究、AI 倫理、AI 安全，以及新加入的 **Hermes Agent** 開源框架研究。
 
-## 📚 四大領域
+## 📚 五大領域
 
 ### 🤖 Prompt Engineering
 讓 LLM 更好用——研究如何設計有效的提示詞。
@@ -44,6 +44,13 @@
 | [Prompt 注入攻擊](ai-safety/prompt-injection-attacks.md) | 對抗攻擊 — 自動化 Prompt Injection |
 | [LLM 欺騙能力](ai-safety/llm-deception.md) | 欺騙分析 — 四種欺騙類型系統 |
 
+### 🔧 AI 框架與工具
+探索具體的 AI Agent 框架、工具與系統。
+
+| 筆記 | 主題 |
+|------|------|
+| [Hermes Agent](hermes-agent/hermes-agent-overview.md) | 開源 Agent 框架 — Skills、Memory、Multi-Agent |
+
 ## 🔗 推理能力進化史
 
 ```
@@ -58,6 +65,8 @@ RAG + Fine-tuning (2023)
 Constitutional AI + DPO (2022-2023)
     ↓
 更安全、更智能的 LLM (2024+)
+    ↓
+Hermes Agent 等開源框架興起 (2025+)
 ```
 
 ## 📈 關鍵研究方向
@@ -66,7 +75,9 @@ Constitutional AI + DPO (2022-2023)
 - **Reasoning**：從 CoT 到 AGI 的推理能力之路
 - **Alignment**：確保 AI 行為符合人類意圖
 - **Safety**：防範對抗攻擊和意外行為
+- **框架與工具**：實際部署 AI Agent 的工程實踐
 
 ---
 
-*最後更新：2026年4月22日*
+*最後更新：2026年5月2日*
+
