@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "簡介.md",
+                "file": "ai-research/llm-研究/自我一致性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "簡介"
+              "title": "自我一致性"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#尼采",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "philosophy/existentialism/nietzsche-will-to-power.md",
+            "file": "ai-research/llm-研究/自我一致性.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,14 +170,21 @@
   },
   "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
-    "health/運動醫學.md",
+    "ai-research/簡介.md",
+    "ai-research/hermes-agent/2_技能系統.md",
+    "ai-research/hermes-agent/4_多代理協作.md",
+    "ai-research/hermes-agent/5_自動化排程.md",
+    "philosophy/存在主義/尼采哲學綜述.md",
+    "poetry-appreciation.md",
+    "每週待辦.md",
+    "health/營養學.md",
     "簡介.md",
+    "health/運動醫學.md",
     "philosophy/斯多葛主義.md",
     "poetry-appreciation/陶淵明詩選.md",
     "zen-meditation/正念/正念神經科學.md",
     "philosophy.md",
     "music/音樂心理學.md",
-    "每週待辦.md",
     "zen-meditation/zen-archery-herregel.md",
     "film-drama/電影節奏剪接美學.md",
     "film-drama/簡介.md",
@@ -191,15 +198,8 @@
     "design-thinking/醫療設計思維框架.md",
     "design-thinking/雙鑽石模型.md",
     "design-thinking/設計思維理論.md",
-    "design-thinking/用戶研究方法.md",
-    "design-thinking/用戶研究方法/用戶研究方法設計思維.md",
     "design-thinking/用戶研究方法",
-    "zen-meditation/禪射箭.md",
-    "zen-meditation/簡介.md",
-    "zen-meditation/正念/意識與量子力學.md",
-    "zen-meditation/正念/禪修與道德.md",
     "zen-meditation/正念",
-    "chinese-literature/華文文學導讀.md",
     "philosophy/斯多葛主義",
     "philosophy/認知哲學",
     "philosophy/東方哲學",
