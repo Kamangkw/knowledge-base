@@ -28,6 +28,7 @@
 - [LLM 研究](ai-research/llm-research/) — Agent、RAG、Fine-tuning
 - [AI 倫理](ai-research/ai-ethics/)
 - [AI 安全](ai-research/ai-safety/)
+- [Hermes Agent](ai-research/hermes-agent/) — 開源 Agent 框架
 - [AI 創作](ai-creativity/)
 
 ### 🎨 創意與設計
@@ -127,5 +128,5 @@
 
 ---
 
-*最後更新：2026-04-20*
+*最後更新：2026-05-02*
 *布布陪偉仔一齊成長 🐻*
