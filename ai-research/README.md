@@ -49,7 +49,11 @@
 
 | 筆記 | 主題 |
 |------|------|
-| [Hermes Agent](hermes-agent/hermes-agent-overview.md) | 開源 Agent 框架 — Skills、Memory、Multi-Agent |
+| [Hermes Agent Overview](hermes-agent/hermes-agent-overview.md) | 開源 Agent 框架 — 核心設計哲學 |
+| [Skills System](hermes-agent/skills-system.md) | 技能編寫、分類與生命週期 |
+| [Memory System](hermes-agent/memory-system.md) | 記憶配置、後端與最佳實踐 |
+| [Multi-Agent](hermes-agent/multi-agent-delegation.md) | delegate_task 與獨立進程模式 |
+| [Cron Automation](hermes-agent/automation-crons.md) | 自動化工作流設計與監控 |
 
 ## 🔗 推理能力進化史
 
