@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-research/llm-研究/自我一致性.md",
-                "mode": "source",
+                "file": "art/美學理論/神經美學概覽.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自我一致性"
+              "title": "神經美學概覽"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ai-research/llm-研究/自我一致性.md",
+            "file": "art/美學理論/神經美學概覽.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,10 +170,17 @@
   },
   "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
-    "ai-research/簡介.md",
-    "ai-research/hermes-agent/2_技能系統.md",
-    "ai-research/hermes-agent/4_多代理協作.md",
+    "art/美學理論/席勒美學理論.md",
+    "art/美學理論/美的哲學基礎.md",
+    "art/美學理論/尼采與美學.md",
+    "ai-research/llm-研究/微調基礎.md",
     "ai-research/hermes-agent/5_自動化排程.md",
+    "ai-research/hermes-agent/3_記憶系統.md",
+    "ai-research/hermes-agent/2_技能系統.md",
+    "ai-research/hermes-agent/1_概述.md",
+    "ai-research/llm-研究/自我一致性.md",
+    "ai-research/簡介.md",
+    "ai-research/hermes-agent/4_多代理協作.md",
     "philosophy/存在主義/尼采哲學綜述.md",
     "poetry-appreciation.md",
     "每週待辦.md",
@@ -190,14 +197,7 @@
     "film-drama/簡介.md",
     "tea-ceremony/傳統/東亞茶道哲學.md",
     "tea-ceremony/傳統",
-    "tea-ceremony/簡介.md",
-    "tea-ceremony/正念/茶與L-Theanine.md",
     "tea-ceremony/正念",
-    "tea-ceremony/茶葉分類與健康.md",
-    "design-thinking/設計思維流程.md",
-    "design-thinking/醫療設計思維框架.md",
-    "design-thinking/雙鑽石模型.md",
-    "design-thinking/設計思維理論.md",
     "design-thinking/用戶研究方法",
     "zen-meditation/正念",
     "philosophy/斯多葛主義",
