@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "health/心理健康/瑜伽與自律神經.md",
+                "file": "business/AI-Driven-Business-Strategy-2026.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "瑜伽與自律神經"
+              "title": "AI-Driven-Business-Strategy-2026"
             }
           }
         ]
@@ -36,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTimeReverse",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "art/美學理論/神經美學概覽.md",
+            "file": "business/AI-Driven-Business-Strategy-2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,9 @@
   },
   "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
+    "health/心理健康/瑜伽與自律神經.md",
+    "Untitled.md",
+    "Untitled",
     "health/心理健康/科技如何綁架心智.md",
     "health/心理健康/分心.md",
     "health/營養學/地中海飲食與心血管.md",
@@ -198,13 +201,10 @@
     "ai-safety/index.md",
     "classic-literature/index.md",
     "philosophy/index.md",
-    "wine-knowledge/index.md",
-    "decision-science/index.md",
     "decision-science",
     "chess-go",
     "marketing-basics",
     "negotiation-skills",
-    "sociology",
-    "anthropology"
+    "sociology"
   ]
 }
