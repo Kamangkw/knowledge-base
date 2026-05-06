@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/個人慾望與期望控制.md",
+                "file": "film/AI與荷里活2026.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "個人慾望與期望控制"
+              "title": "AI與荷里活2026"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
-    "business/AI-Driven-Business-Strategy-2026.md",
+    "health/運動醫學/健身維基.md",
     "philosophy/個人慾望與期望控制.md",
+    "philosophy/哲學概覽.md",
+    "business/AI-Driven-Business-Strategy-2026.md",
     "health/心理健康/瑜伽與自律神經.md",
     "Untitled.md",
     "Untitled",
@@ -199,8 +201,6 @@
     "zen-meditation/index.md",
     "business-thinking/index.md",
     "business-thinking",
-    "chinese-literature/index.md",
-    "ai-safety/index.md",
     "decision-science",
     "chess-go",
     "marketing-basics",
