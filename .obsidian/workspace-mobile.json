@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "film/AI與荷里活2026.md",
+                "file": "art/AI與創意產業/AI時代的藝術創作2026.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI與荷里活2026"
+              "title": "AI時代的藝術創作2026"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "b2eea1a317d876ea",
   "lastOpenFiles": [
+    "film/AI與荷里活2026.md",
     "health/運動醫學/健身維基.md",
     "philosophy/個人慾望與期望控制.md",
     "philosophy/哲學概覽.md",
@@ -199,7 +200,6 @@
     "game-theory",
     "design-thinking/index.md",
     "zen-meditation/index.md",
-    "business-thinking/index.md",
     "business-thinking",
     "decision-science",
     "chess-go",
