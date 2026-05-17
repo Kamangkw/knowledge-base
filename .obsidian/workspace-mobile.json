@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d72a82dbd409172",
+        "id": "e09c1be06b0ccdcc",
         "type": "tabs",
         "children": [
           {
-            "id": "b2eea1a317d876ea",
+            "id": "a07e2b3773f790be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yoga-tai-chi/瑜伽壓力調節.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "瑜伽壓力調節"
+              "title": "New tab"
             }
           }
         ]
@@ -168,43 +164,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2eea1a317d876ea",
+  "active": "a07e2b3773f790be",
   "lastOpenFiles": [
+    "簡介.md",
+    "philosophy/認知哲學/意識創造時空理論.md",
+    "music/音樂品味演化/音樂品味終生演化.md",
+    "yoga-tai-chi/瑜伽壓力調節.md",
+    "品味/咖啡科學/咖啡發酵的微生物生態學：如何塑造精品咖啡風味.md",
+    "philosophy/靈性/世俗正念的界限.md",
+    "philosophy/認知哲學/意識哲學的2026轉折點.md",
+    "philosophy/概覽/哲學概覽.md",
+    "philosophy/概覽",
+    "health/熱療法/桑拿與健康長壽.md",
+    "health/熱療法",
+    "health/運動醫學/2026運動科學突破.md",
+    "health/睡眠科學/睡眠與運動的共生關係.md",
+    "health/心理健康/精神益生菌/精神益生菌臨床試驗綜述.md",
+    "health/心理健康/精神益生菌",
+    "art/現代藝術/Jolie-laide醜之美學：2026當代藝術的pretty-ugly運動.md",
+    "art/現代藝術/2026當代藝術趨勢：人性回歸與情感深度.md",
+    "art/設計趨勢/SoftBrutalism柔和野獸派：2026建築與室內設計的缺陷美學.md",
+    "art/設計趨勢/2026UI設計趨勢：格子美學與動態字體.md",
+    "ai-創意/ai-寫作/AI與文學創作.md",
+    "ai-research/llm-研究/2026年5月開源LLM全景.md",
+    "ai-research/llm-研究/Agentic-AI-2026企業部署與最新趨勢.md",
+    "literature/contemporary-trends/當代文學趨勢2026.md",
+    "literature/contemporary-trends",
+    "literature",
+    "film/亞洲電影AI與垂直影院/AI與荷里活2026.md",
+    "music/音樂治療/神經音樂治療：腦神經康復的音樂幹預機制.md",
+    "music/音樂品味演化",
     "design-thinking/用戶研究方法/用戶研究方法設計思維.md",
     "art/設計趨勢/2026設計趨勢：缺陷美學與人工智能的創意碰撞.md",
     "art/AI與創意產業/AI時代的藝術創作2026.md",
     "film/AI與荷里活2026.md",
-    "health/運動醫學/健身維基.md",
-    "philosophy/個人慾望與期望控制.md",
-    "philosophy/哲學概覽.md",
-    "business/AI-Driven-Business-Strategy-2026.md",
-    "health/心理健康/瑜伽與自律神經.md",
-    "Untitled.md",
     "Untitled",
-    "health/心理健康/科技如何綁架心智.md",
-    "health/心理健康/分心.md",
-    "health/營養學/地中海飲食與心血管.md",
-    "health/睡眠科學.md",
-    "anthropology/index.md",
-    "art/美學理論/尼采與美學.md",
-    "art/美學理論.md",
-    "art/index.md",
-    "poetry-appreciation/index.md",
-    "personal-finance/index.md",
-    "ai-research/ai-倫理.md",
-    "簡介.md",
-    "deep-psychology.md",
-    "film-drama/index.md",
-    "time-management/index.md",
     "time-management",
     "personal-finance",
-    "tea-ceremony/index.md",
-    "game-theory",
-    "business-thinking",
-    "decision-science",
-    "chess-go",
-    "marketing-basics",
-    "negotiation-skills",
-    "sociology"
+    "game-theory"
   ]
 }
