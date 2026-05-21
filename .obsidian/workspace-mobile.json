@@ -11,10 +11,14 @@
             "id": "a07e2b3773f790be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ai-創意/視覺藝術/擴散模型與視覺藝術.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "擴散模型與視覺藝術"
             }
           }
         ]
@@ -32,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byCreatedTimeReverse",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -166,6 +170,10 @@
   },
   "active": "a07e2b3773f790be",
   "lastOpenFiles": [
+    "health/心理健康/腸道免疫腦軸.md",
+    "ai-research/提示詞工程/工具學習.md",
+    "ai-research/提示詞工程/思維鏈.md",
+    "Untitled.md",
     "簡介.md",
     "philosophy/認知哲學/意識創造時空理論.md",
     "music/音樂品味演化/音樂品味終生演化.md",
@@ -194,10 +202,6 @@
     "film/亞洲電影AI與垂直影院/AI與荷里活2026.md",
     "music/音樂治療/神經音樂治療：腦神經康復的音樂幹預機制.md",
     "music/音樂品味演化",
-    "design-thinking/用戶研究方法/用戶研究方法設計思維.md",
-    "art/設計趨勢/2026設計趨勢：缺陷美學與人工智能的創意碰撞.md",
-    "art/AI與創意產業/AI時代的藝術創作2026.md",
-    "film/AI與荷里活2026.md",
     "Untitled",
     "time-management",
     "personal-finance",
