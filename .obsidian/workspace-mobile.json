@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/音樂心理學/音樂情緒反應機制BRECVMA.md",
+                "file": "music/現場音樂/現場音樂的魔力：集體情感與認知神經科學視角.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "音樂情緒反應機制BRECVMA"
+              "title": "現場音樂的魔力：集體情感與認知神經科學視角"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "a07e2b3773f790be",
   "lastOpenFiles": [
+    "music/音樂心理學/音樂情緒反應機制BRECVMA.md",
     "music/音樂心理學/聯覺與跨感官知覺.md",
     "ai-創意/視覺藝術/擴散模型與視覺藝術.md",
     "health/心理健康/腸道免疫腦軸.md",
@@ -198,7 +199,6 @@
     "ai-創意/ai-寫作/AI與文學創作.md",
     "ai-research/llm-研究/2026年5月開源LLM全景.md",
     "ai-research/llm-研究/Agentic-AI-2026企業部署與最新趨勢.md",
-    "literature/contemporary-trends/當代文學趨勢2026.md",
     "literature/contemporary-trends",
     "literature",
     "music/音樂品味演化",
